@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8110f0d7e191667206fe08627b114001/AndroidManifest.xml:17:1-24:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/54ad91735e1118229322b67045f04d1c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/0fc8d7c8ae745cdaa5819931d5ef4172/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/bee90322caeb923430224085c7509b2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-shimmer-0.4.0.aar/875307606887a750d60cc4071823425f/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/bdef936eece651bf132d5e2836c7fec6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/c7509c7924865b7dd23bba2e5529fb02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/e1d57d967c32bbec38fe68b3e8938bd8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/63d41417ce1aff0699925b1d09d4714f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7d0301cbd19b3ec00419c525ab12209e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/12d1397d521b739dbf40b49572ee85f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9bc04c76bee3acc26fa78200bf0a4b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/cdc4af771d0cd72286a0e5396b5afbf5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/bb9f70c7773cca9849a81f2a86f7fa25/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/0f91455e2628ddc0c36055d50ef8fffb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/be6786a972452dacffd7fcc15bd60bc4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9a2e956bebb41256ffc248ff45d93345/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b357368c514a3fe2e108ede5f021df57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b92ac32f1a4d580b933213e159454d68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/c2f29e3d3649c38a43c76bf83bfbc0b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/60ee545067baf68f10dba1d9750e9116/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/275e00ae5e47b6afbea87473b4040c92/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/ec8ba4d43b3f8f82798b8ac75013d325/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/27e455a7c2977944b62fb08be69dc18a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/6f214dc7b26b4a71c1dd41ac94df0d61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/11be6cd819b77e31b788a3baa2c64492/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/45da17ec66f46ba332611aa076a7feda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2dbafb46ec00a293d4fa7f67f60f283a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5c188d3e212a67b07f6b10290742181f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6cab10c628084afcb1c7f8fd868364bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/fd4688648ed1abbd8cd1ecaed8894e55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/324200a724bc0c17414c56d8cd282588/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/2056a66370ca0c32d0a7ab1bef323c13/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/854b1a0b493da258804d2f648992c005/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/fb33bd12f4335edab28fda5d78fd477d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1156a37a4c5123b0c4e27469a6491e55/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:11:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8110f0d7e191667206fe08627b114001/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8110f0d7e191667206fe08627b114001/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/0fc8d7c8ae745cdaa5819931d5ef4172/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/0fc8d7c8ae745cdaa5819931d5ef4172/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/275e00ae5e47b6afbea87473b4040c92/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/275e00ae5e47b6afbea87473b4040c92/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/11be6cd819b77e31b788a3baa2c64492/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/11be6cd819b77e31b788a3baa2c64492/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/275e00ae5e47b6afbea87473b4040c92/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.jemberdeveloper.youtubeapi.activity.YTPlayerActivity
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:14:9-72
+	android:name
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:14:19-60
+activity#com.jemberdeveloper.youtubeapi.activity.MainActivity
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:15:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8110f0d7e191667206fe08627b114001/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8110f0d7e191667206fe08627b114001/AndroidManifest.xml:20:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/54ad91735e1118229322b67045f04d1c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/54ad91735e1118229322b67045f04d1c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/0fc8d7c8ae745cdaa5819931d5ef4172/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/0fc8d7c8ae745cdaa5819931d5ef4172/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/bee90322caeb923430224085c7509b2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/bee90322caeb923430224085c7509b2a/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-shimmer-0.4.0.aar/875307606887a750d60cc4071823425f/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-shimmer-0.4.0.aar/875307606887a750d60cc4071823425f/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/bdef936eece651bf132d5e2836c7fec6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/bdef936eece651bf132d5e2836c7fec6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/c7509c7924865b7dd23bba2e5529fb02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/c7509c7924865b7dd23bba2e5529fb02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/e1d57d967c32bbec38fe68b3e8938bd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/e1d57d967c32bbec38fe68b3e8938bd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/63d41417ce1aff0699925b1d09d4714f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/63d41417ce1aff0699925b1d09d4714f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7d0301cbd19b3ec00419c525ab12209e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7d0301cbd19b3ec00419c525ab12209e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/12d1397d521b739dbf40b49572ee85f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/12d1397d521b739dbf40b49572ee85f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9bc04c76bee3acc26fa78200bf0a4b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9bc04c76bee3acc26fa78200bf0a4b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/cdc4af771d0cd72286a0e5396b5afbf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/cdc4af771d0cd72286a0e5396b5afbf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/bb9f70c7773cca9849a81f2a86f7fa25/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/bb9f70c7773cca9849a81f2a86f7fa25/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/0f91455e2628ddc0c36055d50ef8fffb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/0f91455e2628ddc0c36055d50ef8fffb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/be6786a972452dacffd7fcc15bd60bc4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/be6786a972452dacffd7fcc15bd60bc4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9a2e956bebb41256ffc248ff45d93345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9a2e956bebb41256ffc248ff45d93345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b357368c514a3fe2e108ede5f021df57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b357368c514a3fe2e108ede5f021df57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b92ac32f1a4d580b933213e159454d68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b92ac32f1a4d580b933213e159454d68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/c2f29e3d3649c38a43c76bf83bfbc0b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/c2f29e3d3649c38a43c76bf83bfbc0b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/60ee545067baf68f10dba1d9750e9116/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/60ee545067baf68f10dba1d9750e9116/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/275e00ae5e47b6afbea87473b4040c92/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/275e00ae5e47b6afbea87473b4040c92/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/ec8ba4d43b3f8f82798b8ac75013d325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/ec8ba4d43b3f8f82798b8ac75013d325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/27e455a7c2977944b62fb08be69dc18a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/27e455a7c2977944b62fb08be69dc18a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/6f214dc7b26b4a71c1dd41ac94df0d61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/6f214dc7b26b4a71c1dd41ac94df0d61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/11be6cd819b77e31b788a3baa2c64492/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/11be6cd819b77e31b788a3baa2c64492/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/45da17ec66f46ba332611aa076a7feda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/45da17ec66f46ba332611aa076a7feda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2dbafb46ec00a293d4fa7f67f60f283a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2dbafb46ec00a293d4fa7f67f60f283a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5c188d3e212a67b07f6b10290742181f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5c188d3e212a67b07f6b10290742181f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6cab10c628084afcb1c7f8fd868364bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6cab10c628084afcb1c7f8fd868364bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/fd4688648ed1abbd8cd1ecaed8894e55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/fd4688648ed1abbd8cd1ecaed8894e55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/324200a724bc0c17414c56d8cd282588/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/324200a724bc0c17414c56d8cd282588/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/2056a66370ca0c32d0a7ab1bef323c13/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/2056a66370ca0c32d0a7ab1bef323c13/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/854b1a0b493da258804d2f648992c005/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/854b1a0b493da258804d2f648992c005/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/fb33bd12f4335edab28fda5d78fd477d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/fb33bd12f4335edab28fda5d78fd477d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1156a37a4c5123b0c4e27469a6491e55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1156a37a4c5123b0c4e27469a6491e55/AndroidManifest.xml:20:5-44
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhcode/Documents/YoutubeAPI/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/b0bcdbb884046759157af070edff32db/AndroidManifest.xml:12:22-76
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/shubhcode/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/7f2bc194129473f73cd362ab64e4d3cd/AndroidManifest.xml:9:13-64
